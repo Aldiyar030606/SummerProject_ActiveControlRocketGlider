@@ -1,0 +1,8 @@
+    
+    
+    
+    Type of model: Active control Glider with a folding wings powered by rocket engine
+    Max Diameter:30mm
+    Max Altitude:200-300m
+    Manufacturing method:3d printing
+    Type of engine:KNSB
